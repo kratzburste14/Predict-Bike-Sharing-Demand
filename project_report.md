@@ -33,13 +33,13 @@ With more time, I would attempt more advanced feature engineering and try to fin
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_training_score.png](model_training_score.png)
 
 ### Create a line plot showing the top Kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 The project is focused on bike-share demand prediction, using techniques such as data exploration, feature engineering, and machine learning. The initial model, which was set with default features and parameters, gave the baseline score. The addition of time-based features (year, month, day, hour) to the data allowed the models to recognize and capture important temporal patterns, thereby significantly improving model performance. Further, hyperparameter optimization led to better generalization of the model. Alternating these steps is important to reach a reasonable value for validation and test errors.
